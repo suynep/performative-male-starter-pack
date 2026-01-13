@@ -6,10 +6,10 @@
 
 ## Progress
 - Todo#1 partially completed (fetching posters programmatically done)
-    - Need to implement the `viuer` modules simple *fi*-s
+    - Need to implement the `viuer` module's simple *fi*-s
 
 
 
 ## Todos:
-[ ] clairo posters
-[ ] matcha posters
+- [ ] clairo posters
+- [ ] matcha posters
